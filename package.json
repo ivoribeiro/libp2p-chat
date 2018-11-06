@@ -30,6 +30,9 @@
     "libp2p-secio": "^0.10.0",
     "libp2p-spdy": "^0.12.1",
     "libp2p-tcp": "^0.13.0",
-    "libp2p-websockets": "^0.12.0"
+    "libp2p-utp": "^0.2.0",
+    "libp2p-webrtc-star": "^0.15.5",
+    "libp2p-websockets": "^0.12.0",
+    "webrtc": "^1.14.1"
   }
 }
